@@ -92,10 +92,10 @@ SQL-based analytics covering:
 
 ## 🤝 Connect
 
-**Mohamed [Last Name]**
-- LinkedIn: [your-link]
-- GitHub: [your-link]
-- Email: [your-email]
+**Mohamed Nashat**
+- LinkedIn: https://www.linkedin.com/in/mohamed-nashat-298998191/
+- GitHub: https://github.com/MohamedNashatzakaria
+- Email: mohamednashat313@gmail.com
 
 ## 🛡️ License
 
